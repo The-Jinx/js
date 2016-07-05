@@ -1,5 +1,5 @@
 var fib = [];
-var n = prompt("Enter number of loops","0");
+var n = Number(prompt("Enter number of loops","0"));
 
 fib[0] = 1;
 fib[1] = 1;
